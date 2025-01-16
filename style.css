@@ -1,0 +1,33 @@
+.navbar{
+    border-radius: 0px;
+    }
+    
+    body{
+    background-color: rgb(187, 186, 188);
+    }
+    
+    .jumbotron{
+    background-color: rgb(187, 186, 188);
+    padding: 50px;
+    margin-bottom: 0;
+    font-family: "Ribeye", serif;
+    }
+    
+    .carousel {
+        
+        font-family: "Ribeye", serif;
+        width: 500px;
+        height:auto;
+    }
+     
+    .carousel-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+
+
+    .img {
+border:  5px solid black
+    }
